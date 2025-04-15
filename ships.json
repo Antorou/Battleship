@@ -1,0 +1,27 @@
+{
+    "ships": [
+      {
+        "name": "Destroyer",
+        "length": 2,
+        "quantity": 2,
+        "weapons": ["Cannon", "Torpedo"],
+        "crew": {
+          "captain": "Mohammed Morroco",
+          "officers": 3,
+          "sailors": 10
+        }
+      },
+      {
+        "name": "Submarine",
+        "length": 3,
+        "quantity": 1,
+        "weapons": ["Torpedo", "Missile"],
+        "crew": {
+          "captain": "Fernand islands",
+          "officers": 3,
+          "sailors": 10
+        }
+      }
+    ]
+  }
+  
