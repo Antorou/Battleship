@@ -36,5 +36,5 @@ You define ship positions using a JSON file.
 
 Feel free to fork and suggest improvements! Open issues, pull requests, or just share your feedback.
 
-##📜 License
+## 📜 License
 MIT — use it freely!
